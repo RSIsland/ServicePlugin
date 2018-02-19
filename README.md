@@ -1,12 +1,9 @@
 # ServicePlugin
 
 This small plugin provides service commands for developers:
-
-/stop - Just shuts the server down.
-
-/restart - Just shuts the server down.
-
-/reload - No bukkit nagging.
+- /stop - Just shuts the server down.
+- /restart - Just shuts the server down.
+- /reload - No bukkit nagging.
 
 ## Stop/Restart:
 
@@ -40,3 +37,4 @@ A reload will be performed on file changes of file 'cmd-insert'
 
 You may find this plugin useful, if you disabled Vanilla and Bukkit commands for reasons :P (You wouldn't be alone)
 
+Or if you want to overwrite them.
