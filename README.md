@@ -33,6 +33,10 @@ In case you are using a compile script, its possible to reload the server from e
 
 A reload will be performed on file changes of file 'cmd-insert'
 
+## Permissions:
+
+Each command has its own permission: service.<commandname>
+
 ## Use?
 
 You may find this plugin useful, if you disabled Vanilla and Bukkit commands for reasons :P (You wouldn't be alone)
