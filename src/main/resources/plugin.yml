@@ -1,0 +1,11 @@
+main: ${groupId}.${artifactId}
+name: ${artifactId}
+version: ${version}
+
+author: Ecconia
+description: Commands to maintain your server.
+
+commands:
+  stop:
+  restart:
+  reload:
